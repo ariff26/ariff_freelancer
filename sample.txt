@@ -1,0 +1,42 @@
+ <ul class="list1"><li> Web Development Skills</li>
+      <li>DatabaseManagement</li>
+      <li>Responsive Design</li> 
+        <li>Portfolio Projects</li>
+        <li>Collaboration and Teamwork</li>
+      </ul> 
+
+      The outcomes or output you can expect from a Fullstack Development internship will depend on various factors, including the structure of the internship program, and the specific tasks assigned. However, here are common expectations for the output of a Fullstack Development internship
+
+
+      .list1 {
+  /* text-align: center; */
+  padding-left: 250px;
+  
+}
+.list1 li {
+  font-family:  'Tektur', cursive;
+  font-size: larger;
+  font-style: italic;
+}
+.list2 li {
+  font-family:  'Tektur', cursive;
+  font-size: larger;
+  font-style: italic;
+}.list2 {
+  /* text-align: center; */
+  padding-left: 250px;
+   
+}
+
+<ul class="list2" >
+    <li>Hands-on Experience</li>
+    <li>Programming Skills</li>
+    <li>Understanding of IoT Architecture</li>
+    <li>Data Handling and Analysis</li>
+    <li>Security Awareness</li>
+   </ul> 
+
+   The output or outcomes of an Internet of Things (IoT) internship can vary depending on the specific focus, goals, and tasks assigned during the internship. However, here are some common outcomes you might expect
+
+
+   Upon successful completion of the Certificate, graduates should be able to: Use their learned skills, knowledge and abilities to develop web sites for the internet. Apply basic design principles to present ideas, information, products, and services on websites
